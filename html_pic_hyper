@@ -1,9 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+   <title>HTML Image as link</title>
+</head>
 <body>
-   <center>
-      <h2>https://img.tecnomagazine.net/2017/02/Picture-Manager-de-Microsoft.jpg</h2>
-      <a href="https://www.tutorialspoint.com"><img src="https://www.tutorialspoint.com/assets/questions/media/426142-1668760765.png" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
-   </center>
+   The following image works as a link:<br>
+   <a href="https://hham.ru/">
+      <img alt="Qries" src="https://img.tecnomagazine.net/2017/02/Picture-Manager-de-Microsoft.jpg" width=150" height="70">
+   </a>
 </body>
 </html>
